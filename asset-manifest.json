@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/framer-motion-courses/static/css/main.a9b466e9.chunk.css",
+    "main.js": "/framer-motion-courses/static/js/main.9d175059.chunk.js",
+    "main.js.map": "/framer-motion-courses/static/js/main.9d175059.chunk.js.map",
+    "runtime-main.js": "/framer-motion-courses/static/js/runtime-main.88b6249e.js",
+    "runtime-main.js.map": "/framer-motion-courses/static/js/runtime-main.88b6249e.js.map",
+    "static/js/2.48bb8971.chunk.js": "/framer-motion-courses/static/js/2.48bb8971.chunk.js",
+    "static/js/2.48bb8971.chunk.js.map": "/framer-motion-courses/static/js/2.48bb8971.chunk.js.map",
+    "index.html": "/framer-motion-courses/index.html",
+    "precache-manifest.5236ecdf297c5e42bf85b6157946caa0.js": "/framer-motion-courses/precache-manifest.5236ecdf297c5e42bf85b6157946caa0.js",
+    "service-worker.js": "/framer-motion-courses/service-worker.js",
+    "static/css/main.a9b466e9.chunk.css.map": "/framer-motion-courses/static/css/main.a9b466e9.chunk.css.map",
+    "static/js/2.48bb8971.chunk.js.LICENSE.txt": "/framer-motion-courses/static/js/2.48bb8971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b6249e.js",
+    "static/js/2.48bb8971.chunk.js",
+    "static/css/main.a9b466e9.chunk.css",
+    "static/js/main.9d175059.chunk.js"
+  ]
+}
